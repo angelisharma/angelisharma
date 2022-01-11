@@ -2,7 +2,7 @@
 - 👋 Name: Angeli Sharma
 - 😄 Pronouns: she/her
 - 📚 Third Year Computer Science BSc Student at York University
-- 👨‍💻 I currently work as a Coding Teacher 
+- 👨‍💻 Currently working as a Coding Teacher 
 - 📫 Reach me @ anaesharma19@gmail.com
 <!--
 **angelisharma/angelisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
