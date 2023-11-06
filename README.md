@@ -1,7 +1,6 @@
 ### 💫 About Me
 - 👋 Name: Angeli Sharma
-- 😄 Pronouns: she/her
-- 📚 Third Year Computer Science BSc Student at York University
+- 📚 Fourth Year Computer Science BSc Student at York University
 - 👨‍💻 Currently working as a Coding Teacher 
 - 📫 Reach me @ anaesharma19@gmail.com
 <!--
